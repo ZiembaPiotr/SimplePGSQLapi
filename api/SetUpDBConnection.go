@@ -6,7 +6,7 @@ import (
 	_ "github.com/lib/pq"
 )
 
-//should not be stored like that, I made it only because it was easier to learn new things
+//should not be stored like that, I made it only because it was easier to learn
 //assign values by your needs
 const (
 	host     = ""
